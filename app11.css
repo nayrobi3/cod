@@ -13,6 +13,10 @@
     background-color: transparent
 }
 
+img.generator-style {
+    width: 160px;
+}
+
 button[data-v-70f5f7e7]:hover {
     color: #fff;
     fill: #fff
